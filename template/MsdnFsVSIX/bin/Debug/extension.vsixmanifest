@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="MsdnFsVSIX.fb08c9b8-9da7">
+    <Name>F# and C# Web App (MVC 3)</Name>
+    <Author>Daniel Mohl</Author>
+    <Version>1.0</Version>
+    <Description xml:space="preserve">F# and C# Web Application template that produces an empty ASP.NET MVC 3 (ASPX or Razor) solution.</Description>
+    <Locale>1033</Locale>
+    <License>MicrosoftPublicLicense.txt</License>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+  </Identifier>
+  <References />
+  <Content>
+    <Assembly AssemblyName="MsdnFsTemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=6db65b46e659a2ac">MsdnFsTemplateWizard.dll</Assembly>
+    <Assembly AssemblyName="MsdnCsMvc3Dialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6db65b46e659a2ac">MsdnCsMvc3Dialog.dll</Assembly>
+    <ProjectTemplate>ProjectTemplates</ProjectTemplate>
+  </Content>
+</Vsix>

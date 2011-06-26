@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="3926DFA2-EC14-4236-A75A-8C6B4CD9A6F9" ModuleId="MsdnWeb_1" />
+  <Module PersistentId="9EC3CEC7-7B86-405B-BC41-0306588B693C" ModuleId="MsdnCsMvc3Dialog" />
+  <Module PersistentId="3AF8E4BC-7464-48B1-926B-54442668FE9E" ModuleId="ASPX" />
+</Modules>

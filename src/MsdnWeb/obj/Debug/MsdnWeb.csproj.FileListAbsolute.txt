@@ -1,0 +1,28 @@
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.xml
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\MsdnWeb.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\bin\EntityFramework.xml
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWeb\obj\Debug\MsdnWeb.pdb

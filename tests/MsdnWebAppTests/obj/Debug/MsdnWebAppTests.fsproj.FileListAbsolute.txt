@@ -1,0 +1,30 @@
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebAppTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.XML
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.XML
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\MsdnWebAppTests.pdb

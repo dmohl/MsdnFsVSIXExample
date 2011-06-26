@@ -1,0 +1,6 @@
+C:\git\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\MsdnWebAppTests.XML
+C:\git\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\WebAppTests.dll
+C:\git\MsdnFsVSIXExample\tests\MsdnWebAppTests\bin\Debug\WebAppTests.pdb
+C:\git\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\ResolveAssemblyReference.cache
+C:\git\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\WebAppTests.dll
+C:\git\MsdnFsVSIXExample\tests\MsdnWebAppTests\obj\Debug\WebAppTests.pdb

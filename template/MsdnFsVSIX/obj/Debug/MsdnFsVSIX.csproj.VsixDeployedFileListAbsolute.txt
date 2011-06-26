@@ -1,0 +1,109 @@
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\NuGet.Core.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\NuGet.VisualStudio.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\ProjectTemplates\ASPNET\\MsdnWebAppTests.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\NuGet.Core.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\NuGet.VisualStudio.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC 3 Web App\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3, Razor)\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web (MVC3, Razor)\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Empty MVC3\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web MVC3\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Razor\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsCsMVC3Dialog.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\NuGet.Core.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\NuGet.VisualStudio.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsCsMVC3Dialog.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnCsMvc3Dialog.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnCsMvc3Dialog.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# MVC3\1.0\\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\ProjectTemplates\ASPNET\\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web App (MVC 3)\1.0\\MsdnFsTemplateWizard.pdb

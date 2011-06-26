@@ -1,0 +1,1 @@
+This is an example of a VSIX Project template made up of a C# ASP.NET MVC 3 Razor web application, a F# project that contains the controllers, models, etc., and a F# project that could be used to contain unit tests. This code sample accompanies the "Authoring a F#/C# VSIX Project Template" MSDN Magazine article.

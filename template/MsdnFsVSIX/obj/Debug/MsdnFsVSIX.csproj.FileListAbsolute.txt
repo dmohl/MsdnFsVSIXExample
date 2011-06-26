@@ -1,0 +1,85 @@
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.xml
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.Core.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.Core.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsCsMVC3Dialog.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsCsMVC3Dialog.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsCsMVC3Dialog.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsCsMVC3Dialog.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsCsMVC3Dialog.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsCsMVC3Dialog.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.Core.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.xml
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.Core.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.xml
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.dll
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.dll
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\NuGet.Core.dll
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.xml
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest

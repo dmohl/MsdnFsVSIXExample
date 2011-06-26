@@ -1,0 +1,7 @@
+C:\git\MsdnFsVSIXExample\src\ASPX\bin\Web.dll
+C:\git\MsdnFsVSIXExample\src\ASPX\bin\Web.pdb
+C:\git\MsdnFsVSIXExample\src\ASPX\bin\EntityFramework.dll
+C:\git\MsdnFsVSIXExample\src\ASPX\bin\EntityFramework.xml
+C:\git\MsdnFsVSIXExample\src\ASPX\obj\Debug\ResolveAssemblyReference.cache
+C:\git\MsdnFsVSIXExample\src\ASPX\obj\Debug\Web.dll
+C:\git\MsdnFsVSIXExample\src\ASPX\obj\Debug\Web.pdb

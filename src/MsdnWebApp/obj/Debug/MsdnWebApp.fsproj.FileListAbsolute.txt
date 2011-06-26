@@ -1,0 +1,30 @@
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebApp\bin\Debug\MsdnWebApp.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebApp\bin\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebApp\bin\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebApp\obj\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\MsdnWebApp\obj\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.XML
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringVSIXFSharpProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.XML
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\bin\Debug\MsdnWebApp.pdb
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.dll
+C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\src\MsdnWebApp\obj\Debug\MsdnWebApp.pdb

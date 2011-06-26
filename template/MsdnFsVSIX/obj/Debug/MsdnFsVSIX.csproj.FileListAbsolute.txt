@@ -69,7 +69,6 @@ C:\Users\Daniel Mohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnF
 C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.dll
 C:\Users\dmohl\Dropbox\Dan\MSDN\AuthoringAFsAndCsVSIXProjectTemplate\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.pdb
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MicrosoftPublicLicense.txt
-C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\MsdnFsMvc3.zip
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsVSIX.vsix
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\extension.vsixmanifest
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnCsMvc3Dialog.dll
@@ -83,3 +82,4 @@ C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.dll
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\MsdnFsVSIX.pdb
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\FsMvc3.zip

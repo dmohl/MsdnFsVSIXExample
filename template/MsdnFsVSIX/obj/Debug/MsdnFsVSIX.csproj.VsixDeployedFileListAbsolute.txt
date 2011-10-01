@@ -126,3 +126,21 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# Web (MVC3)\1.0\\NuGet.VisualStudio.dll
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# Web (MVC3)\1.0\\MsdnCsMvc3Dialog.pdb
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# Web (MVC3)\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\ProjectTemplates\ASPNET\\FsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# and C# MVC3\1.0\\MsdnFsTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\MsdnCsMvc3Dialog.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\MsdnFsTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\ProjectTemplates\ASPNET\\FsMvc3.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\MsdnCsMvc3Dialog.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan Mohl\F# C# MVC 3\1.0\\MsdnFsTemplateWizard.pdb

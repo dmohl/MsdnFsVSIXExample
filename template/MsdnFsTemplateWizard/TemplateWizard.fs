@@ -50,11 +50,11 @@ type TemplateWizard() =
                 let webName = this.safeProjectName + "Web"
                 let webAppName = this.safeProjectName + "WebApp"
                 let webAppTestsName = this.safeProjectName + "WebAppTests"
-                let templatePath = this.solution.GetProjectTemplate("FsMvc3.zip", "FSharp")
+                let templatePath = this.solution.GetProjectTemplate("FsEMvc3.zip", "FSharp")
                 try
                     let AddProject status projectVsTemplateName projectName =
                         this.dte2.StatusBar.Text <- status
-                        let path = templatePath.Replace("FsMvc3.vstemplate", projectVsTemplateName)
+                        let path = templatePath.Replace("FsEMvc3.vstemplate", projectVsTemplateName)
                         this.solution.AddFromTemplate(path, Path.Combine(this.destinationPath, projectName), 
                             projectName, false) |> ignore
                     AddProject "Installing the C# Web project..." 

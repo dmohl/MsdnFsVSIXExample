@@ -79,7 +79,7 @@ C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.pdb
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\MsdnFsTemplateWizard.xml
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\ResolveAssemblyReference.cache
 C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\extension.vsixmanifest
-C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\FsMvc3.zip
-C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\FsMVC3.vsix
-C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\FsMVC3.dll
-C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\FsMVC3.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\FsEMVC3.vsix
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\FsEMVC3.dll
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\obj\Debug\FsEMVC3.pdb
+C:\git\MsdnFsVSIXExample\template\MsdnFsVSIX\bin\Debug\ProjectTemplates\ASPNET\FsEMvc3.zip

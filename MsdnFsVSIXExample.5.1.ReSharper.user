@@ -8,27 +8,18 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="3926DFA2-EC14-4236-A75A-8C6B4CD9A6F9/f:Web.config" caret="460" fromTop="14" />
-      <File id="A5E6575F-C66E-42BF-A70F-655D4C3F0069/f:Global.fs" caret="0" fromTop="0" />
-      <File id="A5E6575F-C66E-42BF-A70F-655D4C3F0069/f:HomeController.fs" caret="0" fromTop="0" />
-      <File id="3AF8E4BC-7464-48B1-926B-54442668FE9E/f:Global.asax" caret="204" fromTop="7" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="645" fromTop="10" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="955" fromTop="13" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:ProjectService.fs" caret="0" fromTop="0" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:NuGetService.fs" caret="0" fromTop="0" />
-      <File id="3AF8E4BC-7464-48B1-926B-54442668FE9E/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
-      <File id="3AF8E4BC-7464-48B1-926B-54442668FE9E/d:Views/d:Shared/f:Error.aspx" caret="0" fromTop="0" />
-      <File id="3926DFA2-EC14-4236-A75A-8C6B4CD9A6F9/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
-      <File id="3926DFA2-EC14-4236-A75A-8C6B4CD9A6F9/f:Global.asax" caret="0" fromTop="0" />
       <File id="CACDD7A9-D5B7-442A-A206-B53FA9BBF9D7/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
-      <File id="3926DFA2-EC14-4236-A75A-8C6B4CD9A6F9/d:Views/d:Shared/f:_Layout.cshtml" caret="393" fromTop="9" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2826" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="692" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="682" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="883" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="8666" fromTop="13" />
     </RecentFiles>
     <RecentEdits>
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4637" fromTop="20" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="61" fromTop="3" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="3526" fromTop="14" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:ProjectService.fs" caret="663" fromTop="10" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:ProjectService.fs" caret="1025" fromTop="14" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:NuGetService.fs" caret="1104" fromTop="12" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4530" fromTop="15" />
@@ -38,7 +29,6 @@
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="3599" fromTop="7" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2627" fromTop="13" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="833" fromTop="16" />
-      <File id="3AF8E4BC-7464-48B1-926B-54442668FE9E/f:Global.asax" caret="204" fromTop="7" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="3556" fromTop="15" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2230" fromTop="0" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="736" fromTop="10" />
@@ -47,12 +37,19 @@
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="304" fromTop="4" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="1762" fromTop="6" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="645" fromTop="10" />
-      <File id="3AF8E4BC-7464-48B1-926B-54442668FE9E/d:Views/d:Home/f:Index.aspx" caret="209" fromTop="10" />
-      <File id="3AF8E4BC-7464-48B1-926B-54442668FE9E/d:Views/d:Home/f:Index.aspx" caret="241" fromTop="7" />
       <File id="CACDD7A9-D5B7-442A-A206-B53FA9BBF9D7/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
-      <File id="3926DFA2-EC14-4236-A75A-8C6B4CD9A6F9/d:Views/d:Shared/f:_Layout.cshtml" caret="61" fromTop="3" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2584" fromTop="11" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2826" fromTop="9" />
+      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="1900" fromTop="17" />
+      <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="1925" fromTop="16" />
+      <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="2910" fromTop="15" />
+      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="3322" fromTop="13" />
+      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="682" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="692" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="2270" fromTop="5" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="883" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="883" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="1405" fromTop="0" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

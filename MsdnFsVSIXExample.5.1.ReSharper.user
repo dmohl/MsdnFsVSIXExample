@@ -16,8 +16,8 @@
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2826" fromTop="14" />
       <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="692" fromTop="0" />
       <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="1937" fromTop="3" />
-      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="1959" fromTop="6" />
-      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="2032" fromTop="9" />
+      <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="1916" fromTop="6" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="537" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4530" fromTop="15" />
@@ -44,12 +44,12 @@
       <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="3280" fromTop="13" />
       <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="682" fromTop="11" />
       <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="692" fromTop="11" />
-      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="844" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="883" fromTop="14" />
       <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="844" fromTop="14" />
       <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="1366" fromTop="0" />
       <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="594" fromTop="9" />
-      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="476" fromTop="9" />
       <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="2321" fromTop="14" />
+      <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="537" fromTop="6" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

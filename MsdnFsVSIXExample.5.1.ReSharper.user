@@ -11,19 +11,15 @@
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="645" fromTop="10" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml" caret="955" fromTop="13" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:ProjectService.fs" caret="0" fromTop="0" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:NuGetService.fs" caret="0" fromTop="0" />
       <File id="CACDD7A9-D5B7-442A-A206-B53FA9BBF9D7/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2826" fromTop="14" />
       <File id="d:Miscellaneous Files/f:WebAppTests.fsproj/l:C!?git?MsdnFsVSIXExample?tests?MsdnWebAppTests?WebAppTests.fsproj" caret="692" fromTop="0" />
       <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="1937" fromTop="3" />
       <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="1916" fromTop="6" />
       <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="537" fromTop="6" />
+      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:NuGetService.fs" caret="754" fromTop="17" />
+      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4384" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4530" fromTop="15" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:ProjectService.fs" caret="853" fromTop="12" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:ProjectService.fs" caret="674" fromTop="15" />
-      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="268" fromTop="11" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="3599" fromTop="7" />
       <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="2627" fromTop="13" />
       <File id="9EC3CEC7-7B86-405B-BC41-0306588B693C/f:TemplateWizardDialog.xaml.cs" caret="833" fromTop="16" />
@@ -50,6 +46,10 @@
       <File id="d:Miscellaneous Files/f:ASPX.csproj/l:C!?git?MsdnFsVSIXExample?src?ASPX?ASPX.csproj" caret="594" fromTop="9" />
       <File id="d:Miscellaneous Files/f:WebApp.fsproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWebApp?WebApp.fsproj" caret="2321" fromTop="14" />
       <File id="d:Miscellaneous Files/f:Razor.csproj/l:C!?git?MsdnFsVSIXExample?src?MsdnWeb?Razor.csproj" caret="537" fromTop="6" />
+      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:NuGetService.fs" caret="754" fromTop="8" />
+      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4588" fromTop="18" />
+      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="3916" fromTop="11" />
+      <File id="0A759734-945A-494B-AC8C-F0B9F44A70ED/f:TemplateWizard.fs" caret="4384" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

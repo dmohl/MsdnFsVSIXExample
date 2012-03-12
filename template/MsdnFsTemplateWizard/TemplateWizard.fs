@@ -67,9 +67,17 @@ type TemplateWizard() =
 
                     let projects = BuildProjectMap (this.dte.Solution.Projects)
 
-                    this.dte2.StatusBar.Text <- "Adding NuGet packages..."
-                    (projects.TryFind webName).Value |> InstallPackages this.serviceProvider 
-                    <| ["jQuery.vsdoc"; "jQuery.Validation"; "jQuery.UI.Combined"; "Modernizr"; "EntityFramework"]
+                    try
+                        this.dte2.StatusBar.Text <- "Adding NuGet packages..."
+                        (projects.TryFind webName).Value |> InstallPackages this.serviceProvider (templatePath.Replace("FsEMvc3.vstemplate", ""))
+                        <| [("jQuery.vsdoc", "1.5.1"); ("jQuery.Validation", "1.8.0"); ("jQuery.UI.Combined", "1.8.11"); ("Modernizr", "1.7"); ("EntityFramework", "4.1.10331.0")]
+                    with
+                    | ex -> failwith (sprintf "%s\n\r%s\n\r%s\n\r%s\n\r%s" 
+                                "The NuGet installation process failed."
+                                "Ensure that you have installed ASP.NET MVC 3 Tools Refresh." 
+                                "See http://asp.net/mvc/mvc3 for more information."
+                                "The actual exception message is: "
+                                ex.Message)
 
                     this.dte2.StatusBar.Text <- "Updating project references..."
                     [(webName, webAppName); (webAppTestsName, webAppName)]
